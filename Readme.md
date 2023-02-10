@@ -1,0 +1,2 @@
+# 🚀🚀Abstraindo um Bootcamp usando Orientação a Objetos em Java!
+► Nesse desafio utilizei conceitos de programação orientada a objetos tais como herança, polimorfismo, abstração e encapsulamento, o projeto consiste em pegar uma entidade do mundo real que seria um estudante que ira se inscrever em um bootcamp e assim poder calcular suas experiencias conforme sua progressao. Projeto simples mas muito enriquecedor nesse aspecto de se trabalhar com tecnologias de objetos. 
